@@ -1,4 +1,4 @@
-# Analysis on SQl Requirements Among Business Analysts
+# Analysis on SQL Requirements Among Business Analysts
 
 Related blog post: https://www.anyinstructor.com/is-sql-required-for-business-analysts-data-backed
 
