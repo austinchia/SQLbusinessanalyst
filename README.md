@@ -1,5 +1,7 @@
 # Analysis on SQL Requirements Among Business Analysts
 
+This is an analysis project used for data presented in a blog post in AnyInstructor.com.
+
 Related blog post: https://www.anyinstructor.com/is-sql-required-for-business-analysts-data-backed
 
 This folder contains 2 scripts:
